@@ -47,7 +47,7 @@ npm start
 ```
 
 ## Outros 
-O projeto inicia criando um labirinto usando DFS, e após a criação, 3 novos labirintos são renderizados abaixo rodando simultaneamente um DFS, BFS e o hotspot.
+O projeto inicia com alguns nós e arestas na tela, sendo possivel adicionar mais arestas, escolher os pontos de inicio e fim e arrastar os nós.
 
 
 
