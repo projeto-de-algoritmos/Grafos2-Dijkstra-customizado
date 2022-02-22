@@ -1,6 +1,6 @@
 
 
-# Hotspot
+# Dijkstra
 
 **Número da Lista**: 2<br>
 **Conteúdo da Disciplina**: Grafos<br>
@@ -22,15 +22,13 @@ Caso o link não funcione, o vídeo está dentro da pasta 'grafos1-hotspot' e te
 
 Gerando labirinto
 
-![Gerando labirinto](grafos1-hotspot/Capturar.PNG)
-
-Rodando
-
-![Rodando](grafos1-hotspot/rodando.PNG)
+![App iniciado](app iniciado.PNG)
 
 Final
 
-![Final](grafos1-hotspot/final.PNG)
+![App finalizado](Grafos2-Dijkstra-customizado/app finalizado.PNG)
+
+
 
 ## Instalação 
 **Linguagem**: Javascript<br>
