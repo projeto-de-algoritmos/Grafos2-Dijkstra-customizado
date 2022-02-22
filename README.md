@@ -20,13 +20,13 @@ Caso o link não funcione, o vídeo está dentro da pasta 'grafos1-hotspot' e te
 
 ## Screenshots
 
-Gerando labirinto
+App iniciado
 
-![App iniciado](app iniciado.PNG)
+![App iniciado](dijkstra/app-iniciado.PNG)
 
 Final
 
-![App finalizado](Grafos2-Dijkstra-customizado/app finalizado.PNG)
+![App finalizado](dijkstra/app-finalizado.PNG)
 
 
 
